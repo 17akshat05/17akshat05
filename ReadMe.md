@@ -2,9 +2,18 @@
 <br>🌱 I’m currently learning html, java, solidity(web3) 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/17akshat05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain17/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/daspCbSzJp/)
+<a href="https://instagram.com/17akshat05" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/40/instagram-new.png" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/akshat-jain17/" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/40/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/daspCbSzJp/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+</a>
+
+
+
 
 
 # 💻 Tech Stack:
