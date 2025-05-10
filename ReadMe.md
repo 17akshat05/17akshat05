@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning html, java, solidity(web3) 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17akshat05" alt="17akshat05" /></a> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/17akshat05) [![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-67126a247)
