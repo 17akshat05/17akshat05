@@ -2,18 +2,15 @@
 <br>🌱 I’m currently learning html, java, solidity(web3) 
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://instagram.com/17akshat05" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/40/instagram-new.png" alt="Instagram" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akshat-jain17/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/40/linkedin.png" alt="LinkedIn" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://leetcode.com/u/daspCbSzJp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
-
+<a href="https://instagram.com/17akshat05" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/40/instagram-new.png" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/akshat-jain17/" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/40/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/daspCbSzJp/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+</a>
 
 
 
