@@ -1,6 +1,5 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning html, java, solidity(web3) 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17akshat05" alt="17akshat05" /></a> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/17akshat05)
@@ -12,6 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=17akshat05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=17akshat05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=17akshat05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# TROPHIES
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=17akshat05" alt="17akshat05" /></a> </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
