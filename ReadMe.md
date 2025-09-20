@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning html, java, solidity(web3) 
+<br>🌱 I’m currently learning html, css, c++, solidity(web3), video editing and trading 
 
 ## 🌐 Socials:
 <a href="https://instagram.com/17akshat05" target="_blank">
